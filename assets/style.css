@@ -1,0 +1,11 @@
+.header {
+	color: #FAEBD7;
+}
+
+.jumbotron {
+	background: peru;
+}
+
+.trainRows:hover {
+	background: silver;
+}
